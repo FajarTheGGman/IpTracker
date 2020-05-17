@@ -11,3 +11,6 @@
 4.php ip.php
 Done
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
